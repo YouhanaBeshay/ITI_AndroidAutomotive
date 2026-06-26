@@ -17,9 +17,9 @@ public class Bank {
         return id;
     }
 
-    public Account createAccount(String name) {
+    public Account createAccount(String name, String password) {
         int id = generateUniqueId();
-        Account a = new Account(id, name);
+        Account a = new Account(id, name, password);
         accounts.put(id, a);
         return a;
     }
@@ -28,6 +28,15 @@ public class Bank {
         Account a = accounts.get(id);
         if (a == null)
             throw new IllegalArgumentException("Account not found");
+        return a;
+    }
+
+    public Account login(int id, String password) {
+        Account a = accounts.get(id);
+        if (a == null)
+            throw new IllegalArgumentException("Account not found");
+        if (!a.getPassword().equals(password))
+            throw new IllegalArgumentException("Incorrect password :(");
         return a;
     }
 
