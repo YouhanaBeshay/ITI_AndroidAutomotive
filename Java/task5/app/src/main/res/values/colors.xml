@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_color">#181825</color>
+    <color name="surface_color">#1e1e2e</color>
+    <color name="text_color">#cdd6f4</color>
+    <color name="primary_color">#fab387</color>
+    <color name="red">#f38ba8</color>
+    <color name="orange">#fab387</color>
+    <color name="green">#a6e3a1</color>
+    <color name="crust">#11111b</color>
+
+</resources>
