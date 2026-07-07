@@ -15,5 +15,9 @@ A simple Android app that estimates salaries based on years of experience, job t
 - **UI:** ConstraintLayout, Material Components, ScrollView
 - **Theme:** Dark mode first (Catppuccin Mocha palette)
 
+## Simple Demo
+
+
+https://github.com/user-attachments/assets/6e8a2c3f-1a3a-4e68-920f-fd764aebdda2
 
 
