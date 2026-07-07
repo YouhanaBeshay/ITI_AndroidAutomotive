@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calc_background">#181825</color>
+    <color name="calc_display_bg">#6c7086</color>
+    <color name="calc_input_text">#bac2de</color>
+    <color name="calc_output_text">#bac2de</color>
+
+    <color name="calc_btn_clear">#f38ba8</color>
+    <color name="calc_btn_number">#313244</color>
+    <color name="calc_btn_operator">#fab387</color>
+    <color name="calc_btn_equals">#a6e3a1</color>
+
+    <color name="calc_btn_text">#cdd6f4</color>
+</resources>
