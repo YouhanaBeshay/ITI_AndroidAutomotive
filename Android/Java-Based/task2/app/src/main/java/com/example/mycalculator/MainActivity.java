@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
             String digit = btn.getText().toString();
 
             expression.append(digit);
+            tvOutput.setText("");
             updateInputDisplay();
         };
 
