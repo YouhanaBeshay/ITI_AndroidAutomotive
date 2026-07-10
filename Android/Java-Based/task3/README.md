@@ -14,3 +14,8 @@ A simple Android app that demonstrates passing data between two activities using
 - **Min SDK:** Android 10 (API 29)
 - **UI:** ConstraintLayout, MaterialCardView, Material Components
 - **Theme:** Dark mode first (Catppuccin Mocha palette)
+
+## Demo video
+
+https://github.com/user-attachments/assets/ae6e443f-ce44-4753-ba9f-3a8b42e04bd9
+
